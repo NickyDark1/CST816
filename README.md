@@ -1,6 +1,7 @@
-# CST816 Touch Driver for MicroPython
+# CST816 Touch Driver for MicroPython lvgl
 
-A robust and extensible driver for the CST816S touch sensor chip, featuring advanced functionality while maintaining full backward compatibility with existing code.
+A robust and extensible driver for the CST816S touch sensor chip, featuring advanced functionality while maintaining full backward compatibility with existing code. compatible
+https://github.com/lvgl-micropython/lvgl_micropython
 
 ## 🚀 Features
 
