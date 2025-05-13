@@ -12,6 +12,17 @@ A robust and extensible driver for the CST816S touch sensor chip, featuring adva
 - ✅ **Performance optimizations**
 - ✅ **Built-in diagnostic tools**
 
+# device test:
+<p align="center"> 
+ESP32-S3 1.46″ LCD touch Development Board (412×412)
+</p>
+<p align="center">
+    <img lign="center" src="https://github.com/user-attachments/assets/6b205242-24e2-41fd-ad57-6ff417a90a40" width="600" height="800" />
+</p>
+
+<p align="center">
+
+
 ## 📋 Requirements
 
 - MicroPython with I2C support
